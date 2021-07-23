@@ -4,18 +4,19 @@
 
 # Project Diagram
 
+<img width="1655" alt="Supply_Chain" src="https://user-images.githubusercontent.com/10496268/126784507-20a16437-2b0a-47f2-8005-85359ebf82ad.png">
 
 # Reference:
 https://ethereum-blockchain-developer.com/050-supply-chain-project/00-overview/
 
 # Tools needed:
-Truffle box for Local DAPP Developemnt: https://github.com/truffle-box/react-box
-Metamask for Deploying it in Test networks:  https://metamask.io/
-Ganache by Truffle for Local blockchain testing:  https://www.trufflesuite.com/ganache
+1. Truffle box for Local DAPP Developemnt: https://github.com/truffle-box/react-box
+2. Metamask for Deploying it in Test networks:  https://metamask.io/
+3. Ganache by Truffle for Local blockchain testing:  https://www.trufflesuite.com/ganache
 
 # Installation
-npm install -g truffle ---> Truffle intsallation
-truffle unbox react    ---> Unbox the React box
+1. npm install -g truffle ---> Truffle intsallation
+2. truffle unbox react    ---> Unbox the React box
 
 ## How to execute the DAPP?
 1. Connect ganache to the Metamask using Custom RPC option in Metamask and import the accounts from Ganache
