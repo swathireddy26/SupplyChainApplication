@@ -26,4 +26,5 @@ https://ethereum-blockchain-developer.com/050-supply-chain-project/00-overview/
 5. Then, we will be supplied with a popup window to send the Item cost to the contract address. We can send the amount either by using metamask or by uisng truffle console.
 6. After successful payement, Item state would change to Paid and a pop up window will appear asking to deliver the product.
 7. Item can now be dispatched from warehouse
+8. We can either use Ganache or any Test network to deploy the application on blockchain. We use Infura to deploy the app on test networks.
 
