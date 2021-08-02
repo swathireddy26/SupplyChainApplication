@@ -1,6 +1,7 @@
 # SupplyChainApplication
 1. Created basic supply chain application where we can keep track of items in all stages starting from creation to delivery.
-2. We will perform event triggers for every action taken in the supply chain.
+2. Seller can create a product, an address will be associated with this product and anyone who wants to buy this product can send specified ether to that address. Once the payment is done, seller will get the notification to send the product.
+3. We will perform event triggers for every action taken in the supply chain.
 
 # Project Diagram
 
